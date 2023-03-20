@@ -8,8 +8,8 @@
 
 
 <p align = "center">
-    <a><img height = '400' width = '435' src = "https://github-readme-stats.vercel.app/api?username=adityajadhav99&show_icons=true&theme=radical&border_radius=7px&hide_border=true&title_color='#ffffff'&text_color='#ffffff'"></a>
-    <a><img height = '400' width = '350' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=adityajadhav99&layout=compact&langs_count=12"></a>
+    <a><img height = '400' width = '435' src = "https://github-readme-stats-sigma-five.vercel.app/api?username=adityajadhav99&show_icons=true&theme=radical&border_radius=7px&hide_border=true&title_color='#ffffff'&text_color='#ffffff'"></a>
+    <a><img height = '400' width = '350' src = "https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adityajadhav99&layout=compact&langs_count=12"></a>
 </p>
 
 <h2 align = 'center'> ⚡ Technologies</h2>
